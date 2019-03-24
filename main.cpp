@@ -21,6 +21,5 @@ int main() {
     cout << "l3 = " << l3 << endl;
     cout << "Lungimea lui l2 este " << l2.length() << endl;
     cout << "Minimul din l2 este " << l2.min() << " si maximul este " << l2.max() << endl;
-    cout << l2 + l3;
 	return 0;
 }
